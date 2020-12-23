@@ -1,4 +1,5 @@
 * THIS FORK IS TO PROVIDE A BUILD WITH TZ DATA BEYOND YEAR 2038 AS IT USED TO HAPPEN WITH EARLIER VERSIONS OF moment-timezone. 
+  * This is achieved by simply updating TZ data on a linux machine isntead of mac
 * There is no other change except a fix in a build script to allow updating TZ data on a linux machine
 * Version of this fork is maintained exactly 0.1.0 aead of original moment-timezone version. For e.g. for original moment-timezone 0.5.32 corresponding version of this fork is 0.6.32 
 
