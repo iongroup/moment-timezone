@@ -1,3 +1,5 @@
+THIS FORK IS TO PROVIDE A BUILD WITH TZ DATA BEYOND YEAR 2038 AS IT USED TO HAPPEN WITH EARLIER VERSIONS OF moment-timezone
+
 # [Moment Timezone](http://momentjs.com/timezone/)
 
 [![NPM version][npm-version-image]][npm-url]
